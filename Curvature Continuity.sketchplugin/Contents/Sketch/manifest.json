@@ -1,0 +1,29 @@
+{
+  "author" : "Interface.Market",
+  "authorEmail" : "h@interface.market",
+
+  "name" : "Curvature Continuity",
+  "description" : "Create perfect Curvature Continuity corners.",
+  "version" : "1",
+
+  "commands" : [
+    {
+      "name" : "Curvature Continuity",
+      "shortcut" : "cmd ctrl g",
+      "identifier" : "CurvatureContinuity",
+      "script" : "CurvatureContinuity.js",
+      "handler" : "onRun"
+    }
+  ],
+
+  "menu": {
+    "isRoot": true,
+    "items": [
+      "CurvatureContinuity"
+    ]
+  },
+
+  "developer" : "Gleb Husky",
+  "developerEmail" : "nameisgleb@gmail.com",
+  "identifier" : "com.glebhusky.CurvatureContinuity",
+}
