@@ -2,16 +2,16 @@
   "author" : "Interface.Market",
   "authorEmail" : "h@interface.market",
 
-  "name" : "Curvature Continuity",
-  "description" : "Create perfect Curvature Continuity corners.",
+  "name" : "Egmont Plugin",
+  "description" : "Plugin for create curvature continuity corners.",
   "version" : "1",
 
   "commands" : [
     {
-      "name" : "Curvature Continuity",
+      "name" : "Egmont plugin",
       "shortcut" : "cmd ctrl g",
-      "identifier" : "CurvatureContinuity",
-      "script" : "CurvatureContinuity.js",
+      "identifier" : "Egmont plugin",
+      "script" : "EgmontPlugin.js",
       "handler" : "onRun"
     }
   ],
@@ -19,11 +19,11 @@
   "menu": {
     "isRoot": true,
     "items": [
-      "CurvatureContinuity"
+      "Egmont plugin"
     ]
   },
 
   "developer" : "Gleb Husky",
   "developerEmail" : "nameisgleb@gmail.com",
-  "identifier" : "com.glebhusky.CurvatureContinuity",
+  "identifier" : "com.glebhusky.EgmontPlugin",
 }

@@ -35,7 +35,7 @@ var onRun = function(context) {
       var initialShape = layers[index];
       var shapeFrame = initialShape.frame();
       if(!radius) {
-        var settings = showDialog("Curvature Continuity");
+        var settings = showDialog("Egmont plugin");
       }
       if(settings[0] == 1000) {
         radius = settings[1];

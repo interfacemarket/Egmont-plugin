@@ -1,4 +1,4 @@
-const radiusKey = 'CurvatureContinuity';
+const radiusKey = 'EgmontPlugin';
 
 function getConfig(key) {
   var defaults = [NSUserDefaults standardUserDefaults];
