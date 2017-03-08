@@ -1,13 +1,6 @@
 <img src="https://www.dropbox.com/s/fly8v3yquzbavvy/logo.png?raw=1" width="137" height="161" alt="logo"/>
-# [Egmont plugin](http://interface.market/egmont-plugin)
-Sketch plugin for create curvature continuity corners.
-
-
-## Where curvature continuity used
-Firstly, curvature continuity was used in industrial design and after iOS 7 release it was used in GUI. Such way of curving angles you can see in these elements:
-
-<img src="https://www.dropbox.com/s/cmwlhdjpu2pctd2/elements.png?raw=1" alt="elements"/>
-and so on…
+# Egmont plugin
+[Egmont plugin](http://interface.market/egmont-plugin) developed for create curvature continuity corners.
 
 
 ## How plugin works
