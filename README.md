@@ -1,4 +1,3 @@
-<img src="https://www.dropbox.com/s/fly8v3yquzbavvy/logo.png?raw=1" width="137" height="161" alt="logo"/>
 # Egmont plugin
 [Egmont plugin](http://interface.market/egmont-plugin) developed for create squircle shapes in Sketch.
 
