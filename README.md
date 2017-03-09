@@ -5,7 +5,7 @@
 
 ### You can no longer make a rounded corners for iOS in Sketch
 Why not? In iOS 7 Apple for the first time started using squircle shapes in icons. Now you can see this type of shape in many UI elements and this is the main reason why you must use squircle instead regular rounded rectangle in app design for iOS. Look at some elements which is already created with squircle shape on [Interface.Market](http://interface.market/egmont-plugin)</br>
-<p>[Squircle shape](https://en.wikipedia.org/wiki/Squircle) is different from a standard rounded rectangle. At the moment Sketch can’t create squircle, but with Egmont plugin this becomes possible.</p>
+<p><a href="https://en.wikipedia.org/wiki/Squircle">Squircle shape</a> is different from a standard rounded rectangle. At the moment Sketch can’t create squircle, but with Egmont plugin this becomes possible.</p>
 
 <img src="https://www.dropbox.com/s/4w5367vi1pwuw5c/diff.png?raw=1" alt="difference"/>
 
