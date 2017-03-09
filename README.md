@@ -2,19 +2,13 @@
 # Egmont plugin
 [Egmont plugin](http://interface.market/egmont-plugin) developed for create squircle shapes in Sketch.
 
+## Preview
+<img src="https://www.dropbox.com/s/e8d8y8fj92j9yvk/preview.png?raw=1" width="532" height="303" alt="preview"/>
 
-### You can no longer make a rounded corners for iOS in Sketch
-Why not? In iOS 7 Apple for the first time started using squircle shapes in icons. Now you can see this type of shape in many UI elements and this is the main reason why you must use squircle instead regular rounded rectangle in app design for iOS. Look at some elements which is already created with squircle shape on [Interface.Market](http://interface.market/egmont-plugin)</br>
-<p><a href="https://en.wikipedia.org/wiki/Squircle">Squircle shape</a> is different from a standard rounded rectangle. At the moment Sketch can’t create squircle, but with Egmont plugin this becomes possible.</p>
-
-<img src="https://www.dropbox.com/s/4w5367vi1pwuw5c/diff.png?raw=1" alt="difference"/>
-
-
-### How plugin works
-Just press Cmd+Ctrl+G, then enter needed corner radius and click Apply. Also you can specify a different value for each corner by using / (ex. 12/8/16/0).
-
-<img src="https://www.dropbox.com/s/yl9e9oc2rac0zd2/howWorks.png?raw=1" alt="tutorial"/>
-
+## Installation
+1. Download and open `Egmont-plugin-master.zip`
+2. Locate and double-click Egmont-plugin.sketchplugin
+3. Enjoy
 
 ### License and Copyright
 This software is released under the terms of the [MIT license](https://github.com/svg/svgo/blob/master/LICENSE).</br>
