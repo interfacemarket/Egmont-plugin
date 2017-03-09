@@ -1,6 +1,10 @@
 <img src="https://www.dropbox.com/s/fly8v3yquzbavvy/logo.png?raw=1" width="137" height="161" alt="logo"/>
 # Egmont plugin
-[Egmont plugin](http://interface.market/egmont-plugin) developed for create curvature continuity corners.
+[Egmont plugin](http://interface.market/egmont-plugin) developed for create squircle shapes in Sketch.
+
+
+### You can no longer make a rounded corners for iOS in Sketch
+Why not? In iOS 7 Apple for the first time started using squircle shapes in icons. Now you can see this type of shape in many UI elements and this is the main reason why you must use squircle instead regular rounded rectangle in app design for iOS. Look at some elements which is already created with squircle shape on [Interface.Market](http://interface.market/egmont-plugin)
 
 
 ### How plugin works
