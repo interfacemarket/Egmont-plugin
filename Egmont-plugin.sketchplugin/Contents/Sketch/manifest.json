@@ -26,4 +26,5 @@
   "developer" : "Gleb Husky",
   "developerEmail" : "nameisgleb@gmail.com",
   "identifier" : "com.glebhusky.EgmontPlugin",
+  "appcast": "https://api.sketchpacks.com/v1/plugins/com.glebhusky.EgmontPlugin/appcast"
 }
