@@ -1,4 +1,6 @@
 # Egmont plugin
+[![Download from Sketchpacks.com](https://badges.sketchpacks.com/plugins/com.glebhusky.EgmontPlugin/version.svg)](https://api.sketchpacks.com/v1/plugins/com.glebhusky.EgmontPlugin/download) [![Compatible Sketch Version](https://badges.sketchpacks.com/plugins/com.glebhusky.EgmontPlugin/compatibility.svg)](https://sketchpacks.com/interfacemarket/Egmont-plugin)
+
 [Egmont plugin](http://interface.market/egmont-plugin) developed for create squircle shapes in Sketch. A squircle is a mathematical shape intermediate between a square and a circle.
 
 ## Preview
