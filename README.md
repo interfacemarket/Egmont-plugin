@@ -13,5 +13,4 @@
 
 ### License and Copyright
 This software is released under the terms of the [MIT license](https://github.com/svg/svgo/blob/master/LICENSE).</br>
-© 2017 [Equesy](https://equesy.com). All rights reserved.</br></br>
-[![Twitter Follow](https://img.shields.io/twitter/follow/Interface.Market.svg?style=social)](https://twitter.com/interfacemarket)
+© 2018 [Equesy](https://equesy.com). All rights reserved.</br></br>
