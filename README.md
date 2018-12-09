@@ -7,7 +7,7 @@ Egmont plugin has been developed to create **squircle** shapes in Sketch. A **sq
 <img src="https://www.dropbox.com/s/e8d8y8fj92j9yvk/preview.png?raw=1" width="532" height="303" alt="preview"/>
 
 ## Installation
-1. [Download and open](https://api.sketchpacks.com/v1/plugins/com.glebhusky.EgmontPlugin/download/update/0.0.0?range==1.0.0) `Egmont-plugin-master.zip`
+1. [Download](https://api.sketchpacks.com/v1/plugins/com.glebhusky.EgmontPlugin/download/update/0.0.0?range==1.0.0) and open `Egmont-plugin-master.zip`
 2. Locate and double-click Egmont-plugin.sketchplugin
 3. Enjoy
 
