@@ -1,13 +1,13 @@
 # Egmont plugin
 [![Download from Sketchpacks.com](https://badges.sketchpacks.com/plugins/com.glebhusky.EgmontPlugin/version.svg)](https://api.sketchpacks.com/v1/plugins/com.glebhusky.EgmontPlugin/download) [![Compatible Sketch Version](https://badges.sketchpacks.com/plugins/com.glebhusky.EgmontPlugin/compatibility.svg)](https://sketchpacks.com/interfacemarket/Egmont-plugin)
 
-[Egmont plugin](http://interface.market/egmont-plugin) has been developed to create **squircle** shapes in Sketch. A **squircle** is a mathematical shape intermediate between a square and a circle.
+Egmont plugin has been developed to create **squircle** shapes in Sketch. A **squircle** is a mathematical shape intermediate between a square and a circle.
 
 ## Preview
 <img src="https://www.dropbox.com/s/e8d8y8fj92j9yvk/preview.png?raw=1" width="532" height="303" alt="preview"/>
 
 ## Installation
-1. Download and open `Egmont-plugin-master.zip`
+1. [Download and open](https://api.sketchpacks.com/v1/plugins/com.glebhusky.EgmontPlugin/download/update/0.0.0?range==1.0.0) `Egmont-plugin-master.zip`
 2. Locate and double-click Egmont-plugin.sketchplugin
 3. Enjoy
 
