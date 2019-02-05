@@ -13,4 +13,4 @@ Egmont plugin has been developed to create **squircle** shapes in Sketch. A **sq
 
 ### License and Copyright
 This software is released under the terms of the [MIT license](https://github.com/svg/svgo/blob/master/LICENSE).</br>
-© 2018 [Equesy](https://equesy.com). All rights reserved.</br></br>
+© 2019 [Interface.Market](https://interface.market). All rights reserved.</br></br>
